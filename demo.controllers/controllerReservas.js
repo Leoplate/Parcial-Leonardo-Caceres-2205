@@ -45,7 +45,7 @@ const ingresarReserva = (req, res) => {
 
     
 
-    res.json(dia, mes, ano)
+    
     
     if(condicion>=0){
     
